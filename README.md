@@ -35,10 +35,6 @@ A modern, accessible color palette generator for designers and developers. Creat
 - **Touch-friendly** - Optimized for touch interactions
 - **Adaptive Layout** - Sidebar becomes stacked on smaller screens
 
-## 🖥️ Demo
-
-[Live Demo](https://your-demo-url.com) · [Video Walkthrough](https://your-video-url.com)
-
 ## 🛠️ Tech Stack
 
 - **Framework:** React 18+ with TypeScript
